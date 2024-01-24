@@ -11,7 +11,7 @@
 <body>
     <nav>
         <a href="./dashboard.php">Dashboard</a>
-        <a href="./daftar-guru.php">Daftar Guru</a>
+        <a href="#">Menu 2</a>
         <a href="#">Menu 3</a>
         <a href="#">Menu 4</a>
         <a href="#">Menu 5</a>
